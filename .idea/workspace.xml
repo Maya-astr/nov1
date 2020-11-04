@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09aa7e1e-8694-4d8b-937f-14df43d3b902" name="Default Changelist" comment="" />
+    <list default="true" id="09aa7e1e-8694-4d8b-937f-14df43d3b902" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/уроки/lesson_2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/уроки/lesson_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/уроки/lesson_2/.idea/sct_php_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/уроки/lesson_2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/уроки/lesson_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/уроки/lesson_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/уроки/lesson_2/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/уроки/lesson_2/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/уроки/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/уроки/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Новая папка/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/уроки/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр" beforeDir="false" afterPath="$PROJECT_DIR$/рнр" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_2/.idea/sct_php_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_2/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_2/index2.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +32,13 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/рнр" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1jowV7oVJV7Z7USAvfQFOX2ciH9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,6 +59,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ярлыки\моя\программы\04.11-новый реп\nov1\уроки" />
+      <recent name="D:\ярлыки\моя\программы\04.11-новый реп\nov1\Новая папка" />
       <recent name="D:\ярлыки\моя\программы\04.11-новый реп\nov1\рнр" />
     </key>
   </component>
@@ -45,6 +74,7 @@
       <updated>1604483772538</updated>
       <workItem from="1604483773695" duration="1574000" />
       <workItem from="1604485613920" duration="1997000" />
+      <workItem from="1604487764646" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="перенесение файлов с урока 2 и урока 3 в удаленный репозиторий">
       <created>1604485185414</created>
@@ -81,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604486971871</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="второе, без ветки, перенесение файлов с урока 2 и урока 3 в удаленный репозиторий">
+      <created>1604487833974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604487833974</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,13 +130,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="второе, без ветки, перенесение файлов с урока 2 и урока 3 в удаленный репозиторий" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="541" y="86" key="CommitChangelistDialog2" timestamp="1604486970982">
+    <state x="541" y="86" key="CommitChangelistDialog2" timestamp="1604487833061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="541" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604486970982" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604486978426">
+    <state x="541" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604487833061" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604487836281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604486978426" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604487836281" />
   </component>
 </project>

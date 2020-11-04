@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09aa7e1e-8694-4d8b-937f-14df43d3b902" name="Default Changelist" comment="" />
+    <list default="true" id="09aa7e1e-8694-4d8b-937f-14df43d3b902" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/.idea/sct_php_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/ind.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sct_php_1/таблица.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_3/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/рнр/lesson_3/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_3/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/рнр/lesson_3/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/рнр/lesson_3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/рнр/lesson_3/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,9 +26,10 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/рнр" />
   </component>
   <component name="ProjectId" id="1jowV7oVJV7Z7USAvfQFOX2ciH9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604483772538</updated>
       <workItem from="1604483773695" duration="1574000" />
+      <workItem from="1604485613920" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="перенесение файлов с урока 2 и урока 3 в удаленный репозиторий">
       <created>1604485185414</created>
@@ -46,7 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604485185414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="перенесение файлов с урока 2 и урока 3 в удаленный репозиторий">
+      <created>1604485656908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604485656908</updated>
+    </task>
+    <task id="LOCAL-00003" summary="перенесение файлов с урока 2 и урока 3 в удаленный репозиторий">
+      <created>1604486374044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604486374044</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,13 +88,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="перенесение файлов с урока 2 и урока 3 в удаленный репозиторий" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="541" y="86" key="CommitChangelistDialog2" timestamp="1604485185273">
+    <state x="541" y="86" key="CommitChangelistDialog2" timestamp="1604486373568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="541" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604485185273" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604485395646">
+    <state x="541" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604486373568" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604486584198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604485395646" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604486584198" />
   </component>
 </project>
